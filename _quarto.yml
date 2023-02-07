@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Healthy Bytes with ChatGPT"
+  description: "Step into a world of culinary magic, where healthy eating meets innovation and creativity. \"Healthy Bytes with ChatGPT\" is where healthy eating meets innovation, creativity, and the expertise of a digital language model. With each recipe, we'll embark on a journey to push the boundaries of flavor, experimentation, and healthy eating, all while harnessing the knowledge and expertise of ChatGPT. From unique ingredient combinations to innovative cooking techniques, we'll bring you healthy and delicious recipes that you won't find anywhere else. Join us as we discover the art of creating wholesome and satisfying meals, one byte at a time. Get ready to cook, eat, and be inspired!"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/BlakeMRoss/Healthy-Bytes-with-ChatGPT
+#      - icon: twitter
+#        href: https://twitter.com
+format:
+  html:
+    theme: darkly
+    css: styles.css
+
+editor: visual
+
