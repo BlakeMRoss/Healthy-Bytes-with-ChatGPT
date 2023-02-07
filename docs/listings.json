@@ -1,10 +1,9 @@
 [
   {
-    "listing": "/blog.html",
+    "listing": "/index.html",
     "items": [
-      "/posts/Recipes/recipes.html",
+      "/posts/light-and-fresh/roasted-vegetable-quinoa-salad/index.html",
       "/posts/post-with-code/index.html",
-      "/posts/Recipes/light-and-fresh/quinoa-salad-with-roasted-vegetables.html",
       "/posts/welcome/index.html"
     ]
   }

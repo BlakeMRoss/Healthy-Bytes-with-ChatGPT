@@ -1,7 +1,0 @@
----
-title: "Recipes"
-description: "All the types of foods"
-categories:
-  - Bakery
-  - Light & Fresh
----
